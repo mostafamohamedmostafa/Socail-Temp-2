@@ -30,6 +30,8 @@ body{
     -ms-border-radius: 58px 58px 58px 58px;
     -o-border-radius: 58px 58px 58px 58px;
 }
+/* Adding Stlyes to a tag */
+
 .login-section a{
     width: 100%;
     margin-top: 5%;
@@ -43,6 +45,15 @@ body{
     -ms-border-radius: 58px 58px 58px 58px;
     -o-border-radius: 58px 58px 58px 58px;
 }
+
+.login-section a:hover{
+
+    border:2px solid  gold;
+    background-color: #ffedc9;
+    color: black;
+  
+}
+
 
 
 /* To make img full width and height */
