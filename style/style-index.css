@@ -89,7 +89,11 @@ body{
     -ms-border-radius: 58px 58px 58px 58px;
     -o-border-radius: 58px 58px 58px 58px;
 }
+/* Adding Margin Icon  */
 
+.login-section i{
+    margin-left: 1rem;
+}
  
 /* Adding Responsive Items */
 

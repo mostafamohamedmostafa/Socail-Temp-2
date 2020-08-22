@@ -102,6 +102,13 @@ body{
     -ms-border-radius: 10px 58px 58px 58px;
     -o-border-radius: 10px 58px 58px 58px;
 }
+
+/* Adding Margin Icon  */
+
+.main-section i{
+    margin-left: 1rem;
+}
+
 /* Adding Responsive Items */
 
 @media(max-width:768px) {
