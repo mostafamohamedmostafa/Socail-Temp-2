@@ -61,8 +61,15 @@ body{
 /* To make margin bottom and top on form  */
 
 .form-group{
-    margin-bottom: 1%;
-    margin-top: 1%;
+    margin-bottom: 5%;
+    margin-top: 5%;
+    border: white 3px solid;
+    border-radius: 7px 58px 58px 58px;
+    background-color: white;
+    -webkit-border-radius: 7px 58px 58px 58px;
+    -moz-border-radius: 7px 58px 58px 58px;
+    -ms-border-radius: 7px 58px 58px 58px;
+    -o-border-radius: 7px 58px 58px 58px;
 }
 
  
@@ -77,23 +84,23 @@ body{
 
 
 .form-group input   {
-    border-radius: 58px 58px 58px 58px;
-    -moz-border-radius: 58px 58px 58px 58px;
-    -webkit-border-radius: 58px 58px 58px 58px;
-    border:2px solid white ;
-    -ms-border-radius: 58px 58px 58px 58px;
-    -o-border-radius: 58px 58px 58px 58px;
+    border-radius: 10px 58px 58px 58px;
+    -moz-border-radius: 10px 58px 58px 58px;
+    -webkit-border-radius: 10px 58px 58px 58px;
+    border:2px solid whitesmoke ;
+    -ms-border-radius: 10px 58px 58px 58px;
+    -o-border-radius: 10px 58px 58px 58px;
 }
 
 /* Adding border radius to form select  */
 
 .form-group select {
-    border-radius: 58px 58px 58px 58px;
-    -moz-border-radius: 58px 58px 58px 58px;
-    -webkit-border-radius: 58px 58px 58px 58px;
-    border: 2px solid white;
-    -ms-border-radius: 58px 58px 58px 58px;
-    -o-border-radius: 58px 58px 58px 58px;
+    border-radius: 10px 58px 58px 58px;
+    -moz-border-radius: 10px 58px 58px 58px;
+    -webkit-border-radius: 10px 58px 58px 58px;
+    border: 2px solid whitesmoke;
+    -ms-border-radius: 10px 58px 58px 58px;
+    -o-border-radius: 10px 58px 58px 58px;
 }
 /* Adding Responsive Items */
 
